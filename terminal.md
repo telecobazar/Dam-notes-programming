@@ -11,3 +11,9 @@
 - &lt;&lt;: Here Document
 
 - &lt;&lt;&lt;: Here String 
+
+# METACARACTERES
+- ~: Mi directorio HOME
+- .: Directorio actual
+- ..:directorio de arriba
+ 

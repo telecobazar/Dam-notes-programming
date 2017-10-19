@@ -21,9 +21,9 @@
 - status
 - add (vigilar nuevos ficheros)
  git add-u(remove deleted files)
- - pull
- - push
- seq: secuencia de numeros 
+ - pull: download 
+ - push: upload 
+ - seq: secuencia de numeros 
 
  ## Comandos que unen
 
@@ -35,3 +35,13 @@
 
  - cut: corta vertical => cut -f1 -d" " -- se queda con la fila 1 separada por espacios
  - split: divide horizontal
+
+ ## proceso para subir a git 
+
+ - 1º->  cp -r ~/Documentos/apuntes/* .
+ - 2º->  git status -- saldra si se ha modificado algo
+ - 3º->  git commit -m "Initial commit "
+ - 4º->  git add .
+ - 5º->  git commit -m "Initial commit "
+ - 6º->  git status --saldra si esta listo para hacer un push 
+ - 7º->  git push
