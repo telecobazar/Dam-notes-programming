@@ -5,13 +5,13 @@
  aqui van los comandos 
 
  ```
- *ls: list files. Muestra el directorio
- *cd: change directory. Cambia de directorio.
- *mkdir: make directory (crear un directorio.)
- *rm: remove (quitar un archivo)
- *rmdir: remove directory (quitar un directorio solo si esta vacio)
- *rm -rf (**r**ecursive **f**orce) permite quitar un directorio aun teniendo contenido 
- *cat: concatenar archivos en la terminal mostrandolos por pantalla
+ - ls: list files. Muestra el directorio
+ - cd: change directory. Cambia de directorio.
+ - mkdir: make directory (crear un directorio.)
+ - rm: remove (quitar un archivo)
+ - rmdir: remove directory (quitar un directorio solo si esta vacio)
+ - rm -rf (**r**ecursive **f**orce) permite quitar un directorio aun teniendo contenido 
+ - cat: concatenar archivos en la terminal mostrandolos por pantalla
 
 ## para git
 -----------------------------
@@ -27,11 +27,11 @@
 
  ## Comandos que unen
 
- cat : concatenar archivos en la terminal.
- paste: unir en vertical.
- join: combinaciones. 
+ - cat : concatenar archivos en la terminal.
+ - paste: unir en vertical.
+ - join: combinaciones. 
 
  ## Comandos que dividen
 
- cut: corta vertical => cut -f1 -d" " -- se queda con la fila 1 separada por espacios
- split: divide horizontal
+ - cut: corta vertical => cut -f1 -d" " -- se queda con la fila 1 separada por espacios
+ - split: divide horizontal
