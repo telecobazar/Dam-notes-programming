@@ -2,7 +2,7 @@
 ======================================
 
 Apuntes de 🦁
- Eric Martin Leon
+ Eric Martín León
 
 * En notacion Backus- Naur
  ![icono euitt](./sEscudo.png )
