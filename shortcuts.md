@@ -2,12 +2,12 @@
 ======================================
 
 Apuntes de 🦁
- Eric Martín León
+ Eric Martin Leon
 
 * En notacion Backus- Naur
  ![icono euitt](./sEscudo.png )
 
-## GNOME
+##GNOME
 ----------------------
 * windows: panel lateral _permite hacer busquedas_.
 * ctr+q: quitar un programa. 
@@ -18,7 +18,7 @@ Apuntes de 🦁
 * Win+space: permite cambiar el idioma. 
 * win+↑: maximizar ventana.
 
-## TEXTO
+##TEXTO
 ---------------------
 
 * ctr++: ampliar la fuente. 
