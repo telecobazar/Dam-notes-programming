@@ -27,14 +27,16 @@
 
  ## Comandos que unen
 
- - cat : concatenar archivos en la terminal.
+ - cat : concatenar archivos en la terminal.(en horizontal)
  - paste: unir en vertical.
  - join: combinaciones. 
 
  ## Comandos que dividen
 
  - cut: corta vertical => cut -f1 -d" " -- se queda con la fila 1 separada por espacios
- - split: divide horizontal
+ - split: divide horizontal o separa 
+ - tail -f (muestra el final del archivo)
+ - head -f (muestra el inicio del archivo)
 
  ## proceso para subir a git 
 
@@ -45,3 +47,14 @@
  - 5º->  git commit -m "Initial commit "
  - 6º->  git status --saldra si esta listo para hacer un push 
  - 7º->  git push
+
+##ver ayuda o manual de un comando 
+ - man para ello es importante saber que 
+ con un (1) se hace referencia a la herramienta de la terminal,  
+ un (2) al nucleo del ssoo y con un (3) al desarrollo de aplicaciones.
+
+ ##para descargar un archivo desde internet 
+
+ - wget +url  
+
+
