@@ -12,8 +12,21 @@
 
 - &lt;&lt;&lt;: Here String 
 
-# METACARACTERES
+redireccion de copia
+
+## variable
+- #: cantidad de parametros
+
+## METACARACTERES
+- $: valor de una variable
 - ~: Mi directorio HOME
+- ~: Tambien identifica al usuario
 - .: Directorio actual
 - ..:directorio de arriba
- 
+- ' ': partir en palabras
+- \\: secuencia de escape. Criptonita de los metacaracteres
+
+## otros
+- #! shebang: interprete con el que hay que ejecutar el archivo.  
+"seguidamente mediante un comentario haremos una descripcion del programa #....."
+

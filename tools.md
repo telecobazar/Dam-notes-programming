@@ -29,7 +29,7 @@
  git add-u(remove deleted files)
  - pull: download 
  - push: upload 
- - seq: secuencia de numeros 
+ - seq: secuencia de numeros "seq 1 9 | xargs -n3 echo"
 
  ## ¿Cómo subir a github?  
 
@@ -68,5 +68,13 @@
    alfabeticamente... 
  - uniq -c: deja filas unicas -c: cuenta
 
- 
+ - telnet +"direccion(web o ip)" +`puerto (80) para web puerto (21) para correo  
+
+ - grep: filtra   "cat barbarians.txt | grep hola "
+ 				  "-f fichero.txt grep hola"  
+ - find: busca    "find . -name fichero.txt"
+ - xargs: busca
+
+ ## permisos 
+ - chmod +numero_rwx_binario+ fichero del que queremos cambiar permisos --"chmod 754 nomFich"   
 
