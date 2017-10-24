@@ -30,3 +30,11 @@ redireccion de copia
 - #! shebang: interprete con el que hay que ejecutar el archivo.  
 "seguidamente mediante un comentario haremos una descripcion del programa #....."
 
+- !!: ultimo comando 
+- !\*: ultimos parametros
+
+## Operadores Lógicos
+
+- &&: AND logico 
+- ||: OR logico 
+- =!: NOT 
